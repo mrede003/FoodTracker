@@ -146,6 +146,7 @@
 				TargetAttributes = {
 					302CADFC1E95BEEB0030719B = {
 						CreatedOnToolsVersion = 8.3;
+						DevelopmentTeam = AW3CR8KPBN;
 						ProvisioningStyle = Automatic;
 					};
 					302CAE101E95BEEC0030719B = {
@@ -341,6 +342,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = AW3CR8KPBN;
 				INFOPLIST_FILE = FoodTracker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mrede003.yourmother.FoodTracker;
@@ -353,6 +355,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = AW3CR8KPBN;
 				INFOPLIST_FILE = FoodTracker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mrede003.yourmother.FoodTracker;
@@ -408,6 +411,7 @@
 				302CAE1C1E95BEEC0030719B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		302CAE1D1E95BEEC0030719B /* Build configuration list for PBXNativeTarget "FoodTrackerTests" */ = {
 			isa = XCConfigurationList;
@@ -416,6 +420,7 @@
 				302CAE1F1E95BEEC0030719B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
